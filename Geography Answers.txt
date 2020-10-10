@@ -1,0 +1,20 @@
+Khangchendzonga National Park/,Kaziranga National Park,Bhitarkanika National Park,Nanda Devi National Park
+Rajasthan,Gujarat,Jharkhand/,Maharashtra
+Gangetic plain,Trans Himalayas,Western Ghats/,Central India
+Godavari Valley,Wardha Valley,Damodar Valley/,Mahanadi Valley
+Durand Line,McMahon Line/,Radcliffe Line,24th parallel
+SIKKIM,GOA/,KOLKATA,DELHI
+Kalsubai Shikhar/,Anjaneri,Salher,Taramati
+Bihar,Chhattisgarh/,Uttarakhand,Meghalaya
+17,27,36/,41
+Himalayas,Vindhyans,Aravalis/,Satpuras
+Lohit,Padma/,Kaliganga,Nabaganga
+Jhansi,Mirzapur,Lalitpur/,Hamirpur
+Saryu,Ram Ganga,Kali/,Pindar
+China,Nepal,Bangladesh/,Pakistan
+Gulf of Kuthch/,Sunderbans,Chilka Lake,None of the above
+Satopanth,Gangotri,Yamunotri/,Chemayungdun
+Circar Coast,Konkan Coast,Malabar coast,Coromandal coast/
+Stratosphere,Ozonosphere,Ionosphere,Troposphere/
+K2 GLACIER,HENEGA GLACIER,AMBERT GLACIER,IACHEN GLACIER/
+Yemen,Ethiopia,Lebanon/,Sudan

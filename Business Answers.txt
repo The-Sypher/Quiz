@@ -1,0 +1,20 @@
+Shanghai,Tokyo,Bombay/,Hong Kong
+American Express,Diners club/,Master card,VISA
+Yash chopra,vijay amritraj,d.rama naidu/,avm studios
+Flipkart,e-bay,amazon/,india times
+Life is Good,Luck and Good,Lucky and Goody,Lucky and Goldstar/
+Kwality,Amul,Vadilal,Joy/
+SBI,HDFC/,TATA,Reliance.
+Jamshetji Tata/,Ratan Tata,Noel Tata,Naval Tata.
+Jaguar,Landrover,Both of above A&B/,Porsche.
+Tendulkar's-Mumbai,Sachin's-Mumbai,Sachin's - Bangalore,ZK's-Pune/
+Sony,Sanyo,Samsung/,Sansui.
+Google,Twitter,Amazon,Apple./
+Bharti Axa,LIC,Max Insurance,HDFC Life/
+Maharashtra,Gujarat/,West Bengal,Tamil Nadu
+Industrialisation,Globalisation/,Capital flow,Current Account Deficit
+Agriculture Sector,Industry Sector,Service Sector/,None of the above
+ISI,RBI,CSO/,NABARD
+Nation's total economic activity,Value of all finished goods produced in one year by its Nationals,Value of goods and services produced in an area,Industry or sector of an economy/,Capital that has been consumed over the year in the form of housing,Vehicle or machinery deterioration
+State Bank of India,NABARD,National Payments Corporation of India Limited/,National Securities Depository Limited
+NEFT/,EFT,RTGS,ECS

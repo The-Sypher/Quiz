@@ -1,0 +1,20 @@
+Chennai Super Kings ,Mumbai Indian,Royal Challenge Bangalore,Kolkata Knight Riders/
+Basket Ball,Football/,Polo,Tennis
+Kolkata,Manchester,Melbourne,Motera/
+Barcelona,Real Madrid,Juventas,Liverpool/
+Saina Newal,P V Sindhu/,Sania Mirza,K Srikant
+Ministry of Health and Family Welfare,Ministry of Science and Technology,Ministry of Youth Affairs and Sports/,Ministry of Home Affairs
+Virgil van Dijk,Cristiano Ronaldo,Lionel Messi/,Neymar
+Serena Williams/,Sloane Stephens,Angelique Kerber,Madison Keys
+K. Sangakkara,M. S. Dhoni/,Moin Khan,R. S. Kaluwitharna
+Russia,France,Croatia/,None of the above
+Juan Sebastián Cabal,Robert Farah,Novak Djokovic/,Roger Federer
+Chess/,Carrom,Poker,Shooting
+Hockey,Football,Softball,Basketball/
+Sunrisers Hyderabad,Kolkata Knight Riders,Mumbai Indians/,Royal Challengers Bangalore
+Chetan Sharma,Rahul Dravid/,Virendra Sehwag,Ashish Nehra
+Ronaldinho,Cristiano Ronaldo,Lionel Messi/,None of these
+Michael Phelps/,James Connelly,Mark Spitz,Abebe Bikila
+Football,Swimming,Lawn Tennis/,Chess
+PLAYERS-UNKNOWN'S-BATTELGROUNDS/,PLAYERS-UNKNOWN'S-BATTLEGAME,PLAY-UNITE-BATTLEGAME,PLAY-UNITE-BATTLEGROUND
+NATUS VINCERE/,FNATIC,ASTRALIS,FAZE
