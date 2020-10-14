@@ -584,19 +584,22 @@ void call(int a, int b, int c, int d, int e)
     i++;
   }
 }
-void showcat()
+void showcat(int i)
 {
   cout << "-------------------------------------------" << endl;
   cout << "                CATEGORIES:" << endl;
   cout << "-------------------------------------------" << endl<< endl;
-  cout << "1.Business\n2.Geography\n3.History\n4Sports\n5.Media and Current Affairs\n6.Start quiz\n----(To back to Main Menu enter 0)\nEnter your choice:";
+  cout << "1.Business\n2.Geography\n3.History\n4Sports\n5.Media and Current Affairs\n";
+  if(i==1)
+    cout<<"6.Start quiz\n";
+  cout<<"----(To back to Main Menu enter 0)\nEnter your choice:";
 }
 void case1()
 {
   int c;
   do
   {
-    showcat();
+    showcat(0);
     cin >> c;
     switch (c)
     {
@@ -630,6 +633,8 @@ void case1()
     default:
       cout << "\nWrong choice, Try again" << endl;
     }
+    if(c==0)
+      cout<<"\nAre you sure?\n";
     cout << "Enter (1) to choose another category or enter (0) to go to main menu: ";
     cin >> c;
     system("CLS");
@@ -639,7 +644,7 @@ void case2()
 {
   int c, ct = -1, flag = 0;
   int ca[] = {-1, -1, -1, -1, -1};
-  showcat();
+  showcat(1);
   do
   {
     cin >> c;
@@ -679,13 +684,12 @@ void case2()
 
       case 0:
         flag = -1;
-      break;
-
+        break;
       default:
         cout << "Wrong choice";
       break;
     }
-  } while (flag != 1);
+  } while (flag !=-1);
 
   if (flag == 1)
   {
@@ -703,6 +707,7 @@ void case4()
 {
   cout << "Your total score: " << score << "/" << t << endl;
   cout << "(It means you answered " << score << " questions correctly out of " << t << " questions)" << endl;
+  Sleep(3000);
 }
 void case5()
 {
@@ -749,7 +754,6 @@ int main()
       case 4:
         system("CLS");
         case4();
-        Sleep(3000);
         system("CLS");
         break;
       case 5:
