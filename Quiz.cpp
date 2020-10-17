@@ -586,9 +586,9 @@ void call(int a, int b, int c, int d, int e)
 }
 void showcat(int i)
 {
-  cout << "-------------------------------------------" << endl;
-  cout << "                CATEGORIES:" << endl;
-  cout << "-------------------------------------------" << endl<< endl;
+  cout << "---------------------------------------------" << endl;
+  cout << "                 CATEGORIES:" << endl;
+  cout << "---------------------------------------------" << endl<< endl;
   cout << "1.Business\n2.Geography\n3.History\n4Sports\n5.Media and Current Affairs\n";
   if(i==1)
     cout<<"6.Start quiz\n";
@@ -729,9 +729,9 @@ int main()
   int c;
   do
   {
-    cout << "-------------------------------------------" << endl;
-    cout << "                  MENU:" << endl;
-    cout << "-------------------------------------------" << endl<< endl;
+    cout << "---------------------------------------------" << endl;
+    cout << "                   MENU:" << endl;
+    cout << "---------------------------------------------" << endl<< endl;
     cout << "1.Questions in a category\n2.Questions from multiple specific categories\n3.Random questions\n4.Show score\n5.Reset scores\n6.Exit\nEnter your choice:";
     cin >> c;
     switch (c)
