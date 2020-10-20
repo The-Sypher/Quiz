@@ -589,7 +589,7 @@ void showcat(int i)
   cout << "---------------------------------------------" << endl;
   cout << "                 CATEGORIES:" << endl;
   cout << "---------------------------------------------" << endl<< endl;
-  cout << "1.Business\n2.Geography\n3.History\n4Sports\n5.Media and Current Affairs\n";
+  cout << "1.Business\n2.Geography\n3.History\n4.Sports\n5.Media and Current Affairs\n";
   if(i==1)
     cout<<"6.Start quiz\n";
   cout<<"----(To back to Main Menu enter 0)\nEnter your choice:";
